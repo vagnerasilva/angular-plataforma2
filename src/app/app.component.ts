@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  name = 'Angular teste';
+  name = 'Angular teste 2 daqui do stackblitz';
+
 }
